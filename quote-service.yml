@@ -1,5 +1,5 @@
 ---
 spring:
-  profiles: local
+  profiles: cloud
 server:
   port: 8083
