@@ -20,6 +20,8 @@ logging:
 endpoints:
    health:
      sensitive: false
+   routes:
+     sensitive: false
 ---
 spring:
   profiles: cloud
